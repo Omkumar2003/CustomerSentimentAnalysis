@@ -60,6 +60,7 @@ Visit your browser at:
 
 ## 🖼️ Interface Preview
 The web interface looks like the screenshot below:
+![ss](https://github.com/Omkumar2003/CustomerSentimentAnalysis/blob/main/ss.png)
 
 ## 📁 Project Structure
 ```
