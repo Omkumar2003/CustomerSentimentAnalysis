@@ -1,0 +1,15 @@
+numpy
+pandas
+seaborn
+matplotlib
+nltk
+wordcloud
+scikit-learn
+xgboost
+imbalanced-learn
+mega.py
+spacy
+textblob
+jupyterlab
+ipywidgets
+dash
